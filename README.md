@@ -16,7 +16,4 @@ I'm passionate about turning data into actionable insights and building AI-power
 - 🔍 Contributed to open-source AI and ML frameworks
 - 📈 Built end-to-end data pipelines for scalable AI solutions
 
-### 📫 Connect With Me
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/123bassam-hassan-/))
-
 Let's collaborate and innovate! 🚀
