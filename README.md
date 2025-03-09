@@ -6,7 +6,7 @@ I'm passionate about turning data into actionable insights and building AI-power
 
 ###  About Me
 -  Experienced in **Machine Learning, Deep Learning, and NLP**
-- ☁ AWS Cloud Foundations Certified
+-  AWS Cloud Foundations Certified
 -  Skilled in **Python, SQL, TensorFlow, PyTorch, and Scikit-learn**
 -  Passionate about **Data Analytics, AI Research, and Model Optimization**
 -  Exploring **MLOps, LLMs, and Generative AI**
