@@ -1,19 +1,12 @@
-### Hi there, I'm Bassam! 
-
-#### Data Scientist | AI Engineer | Cloud Enthusiast
-
-I'm passionate about turning data into actionable insights and building AI-powered solutions. With expertise in data science, machine learning, and cloud computing, I enjoy working on projects that push the boundaries of AI innovation.
+### I'm Bassam, AI Engineer
 
 ###  About Me
--  Experienced in **Machine Learning, Deep Learning, and NLP**
--  AWS Cloud Foundations Certified
+-  Experienced in **AI Agents | LLMs**
 -  Skilled in **Python, SQL, TensorFlow, PyTorch, and Scikit-learn**
 -  Passionate about **Data Analytics, AI Research, and Model Optimization**
--  Exploring **MLOps, LLMs, and Generative AI**
+-  AWS Cloud Foundations Certified
 
 ###  Projects & Contributions
--  Developed AI-driven predictive models for real-world applications
 -  Contributed to open-source AI and ML frameworks
+-  Developed AI models for real-world applications
 -  Built end-to-end data pipelines for scalable AI solutions
-
-Let's collaborate and innovate! 
